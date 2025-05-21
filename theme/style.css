@@ -1,6 +1,6 @@
 /*
 Theme Name: Santo Bit Theme
-Version: 0.4
+Version: 0.5
 */
 
 /*
@@ -681,6 +681,10 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
 }
 
 .flex-col {
